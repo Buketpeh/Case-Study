@@ -1,0 +1,24 @@
+.contect {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.bottom-space {
+  margin-bottom: 15px;
+}
+.title {
+  font-weight: bold;
+  font-size: 25px;
+  border-bottom: 1px solid;
+  border-color: #000000 !important;
+}
+.list-item {
+  border-bottom: 1px dashed;
+}
+.footer {
+  margin-top: 55px;
+  background-color: #f5f5f5;
+}
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 80px;
+}

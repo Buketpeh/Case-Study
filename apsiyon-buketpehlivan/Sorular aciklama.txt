@@ -1,0 +1,31 @@
+SORU1------------------------------------------------------------------------------------------------------------
+
+SQL Server’da 8 iliþkili tablo yapýsýna sahip bir ürünün veritabanýný kurgulayýn.
+Kurgulanan bütün tablolarýn bir þekilde birbirine baðlý olmasý gerekmektedir.
+Çýktý:
+1.8 tablonun iliþkisini gösteren bir veritabaný diagram’ý çiziniz.
+2.t-sql ile 4 adet join sorgusu teslim ediniz. Her sorgu 2 farklý tablo ile baðlantýyý çözümlemesi gerekmektedir.
+3.t-sql ile 8 tablonun iliþkisini tek bir join sorgusu ile çözünüz.
+4.t-sql ile subquery kullanarak 4 farklý tablodan tek sorgu ile veri çekiniz.
+
+SORU2------------------------------------------------------------------------------------------------------------
+
+Bir kombi markasý için tek sayfalýk bir tasarým/kodlama gerçekleþtirin. Sayfada üst menu, alt menu, iletiþim formu ve haberler/duyurular bölümleri yer almalýdýr. Single page application mantýðýnda, baþka sayfalara ziyarette bulunulmamalý, tek sayfa üzerinde olmalýdýr. Javascript/HTML/JQuery/Angular/React/VueJS gibi web tarafýnda kullanýlabilen teknolojiler tercih 
+edilebilir.
+
+SORU3------------------------------------------------------------------------------------------------------------
+
+NET Core/WPF kullanarak en az 4 iþlemden oluþan bir hesap makinesi kodlayýnýz.
+
+SORU4------------------------------------------------------------------------------------------------------------
+
+Selenium Webdriver ile aþaðýdaki maddelerin gerçekleþtirilmesi gerekmektedir.
+
+n11.com sitesine gidecek ve anasayfanin acildigini onaylayacak
+Login ekranini acip, bir kullanici ile login olacak ( daha once siteye uyeliginiz varsa o olabilir )
+Ekranin ustundeki Search alanina 'samsung' yazip Ara butonuna tiklayacak
+Gelen sayfada samsung icin sonuc bulundugunu onaylayacak
+
+SORU5------------------------------------------------------------------------------------------------------------
+
+.NET Core, Java veya Golang kullanarak bir WCF/Rest service’i geliþtiriniz. IMDB’nin saðlamýþ olduðu API’a gelen webservice isteklerini iletiniz. Daha önceden getirilen sorgu sonuçlarý için tekrar sorgulama yapýlmamasýna yönelik bir cache mekanizmasý kurgulayýnýz.

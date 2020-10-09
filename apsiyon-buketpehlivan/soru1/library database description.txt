@@ -1,0 +1,1 @@
+Bir kütühaneye ait bir veri tabaný oluþturulmuþtur.Kütüphaneye üye olunabilmektedir.Üyeler kitap emanet alabilmektedirler.Kitaplar yazarlarýna ve kategorilerine göre ayýrt edilebilir.

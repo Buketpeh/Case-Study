@@ -1,0 +1,13 @@
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\selenium.exe.config
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\selenium.exe
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\selenium.pdb
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\WebDriver.dll
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\WebDriver.xml
+C:\Users\buket\source\repos\selenium\selenium\obj\Debug\selenium.csprojAssemblyReference.cache
+C:\Users\buket\source\repos\selenium\selenium\obj\Debug\selenium.csproj.CoreCompileInputs.cache
+C:\Users\buket\source\repos\selenium\selenium\obj\Debug\selenium.csproj.CopyComplete
+C:\Users\buket\source\repos\selenium\selenium\obj\Debug\selenium.exe
+C:\Users\buket\source\repos\selenium\selenium\obj\Debug\selenium.pdb
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\nunit.framework.dll
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\nunit.framework.pdb
+C:\Users\buket\source\repos\selenium\selenium\bin\Debug\nunit.framework.xml

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DMcN5+68K6Ok//miVNEnMBwE38sWUDvu0RxoowkdUXL8BugvjvxjbpeHzdKTi2aen1iz9iWabghUYTENsNcDMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buket\\source\\repos\\buketapi\\buketapi\\buketapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buket\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
